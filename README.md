@@ -1,6 +1,6 @@
 ### :man_technologist: Olá, eu sou a Luana Bezana! Seja bem vindo(a) ao meu GitHub 👋 
 
-||Desenvolvedora Java Full Stack||
+|| Desenvolvedora Java Full Stack ||
 
 #### Meus contatos:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/luana-cristina-bezana-a3a762133/)](https://www.linkedin.com/in/luana-cristina-bezana-a3a762133/)
@@ -26,7 +26,7 @@
 ![NodeJS](https://img.shields.io/badge/-NodeJS-DD0031?style=flat-square&logo=NodeJS)
 
 <img align="left"  width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuaBezana&layout=compact&theme=vision-friendly-dark" />
- <img align="right" width="400px" src="https://github-readme-stats.vercel.app/api?username=RodrigoTeixeiraC&show_icons=true,css&layout=compact&theme=vision-friendly-dark" />
+ <img align="right" width="400px" src="https://github-readme-stats.vercel.app/api?username=LuaBezanaC&show_icons=true,css&layout=compact&theme=vision-friendly-dark" />
 <!--
 **Lua Bezana/Lua Bezana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
