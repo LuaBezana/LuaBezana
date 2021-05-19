@@ -3,7 +3,7 @@
 || Desenvolvedora Java Full Stack ||
 
 #### Meus contatos:
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/luana-cristina-bezana-a3a762133/)](https://www.linkedin.com/in/luana-cristina-bezana-a3a762133/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/luana-cristina-bezana-a3a762133/)](https://www.linkedin.com/in/luana-bezana-a3a762133/)
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5511932293999&text=Ol%C3%A1,%20Luana!%20Vi%20seu%20perfil%20no%20GitHub.)](https://api.whatsapp.com/send?phone=5511932293999&text=Olá!)
 [![Hotmail Badge](https://img.shields.io/badge/-Hotmail-c14438?style=flat-square&logo=Hotmail&logoColor=white&link=mailto:luana.bezana@hotmail.com)](mailto:luana.bezana@hotmail.com)
 
