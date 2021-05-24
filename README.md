@@ -1,4 +1,4 @@
-### :woman_technologist: Olá, eu sou a Luana Bezana! Seja bem vindo(a) ao meu GitHub 👋 
+### :woman_technologist: Sou a Luana Bezana! Sejam bem vindos 👋 
 
 || Desenvolvedora Java Full Stack ||
 
