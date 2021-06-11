@@ -27,8 +27,7 @@
 
 <img align="left"  width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuaBezana&layout=compact&theme=vision-friendly-dark" />
  <img align="right" width="400px" src="https://github-readme-stats.vercel.app/api?username=LuaBezana&show_icons=true,css&layout=compact&theme=vision-friendly-dark" />
- 
- <img src="https://camo.githubusercontent.com/f0c822e249c3058a1c5f5a710ab27c3ffe447f7ff7f0f1a36132cff74cf51ac6/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d74756c696f66617269612673686f775f69636f6e733d74727565267468656d653d7261646963616c" alt="Luana Bezana's github stats" data-canonical-src="https://github-readme-stats.vercel.app/api?username=luabezana&amp;show_icons=true&amp;theme=radical" style="max-width:100%;">
+
 <!--
 **Lua Bezana/Lua Bezana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
