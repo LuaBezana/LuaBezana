@@ -25,7 +25,7 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3)
 ![NodeJS](https://img.shields.io/badge/-NodeJS-DD0031?style=flat-square&logo=NodeJS)
 
-<img align="left"  width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuaBezana&layout=compact&theme=vision-friendly-dark" />
+<img align="left"  width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuaBezana&layout=compact&theme=vision-friendly-dark&Color=FF1493" />
  <img align="right" width="400px" src="https://github-readme-stats.vercel.app/api?username=LuaBezana&show_icons=true,css&layout=compact&theme=vision-friendly-dark" />
 <!--
 **Lua Bezana/Lua Bezana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
