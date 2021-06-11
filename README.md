@@ -8,11 +8,11 @@
 [![Hotmail Badge](https://img.shields.io/badge/-Hotmail-c14438?style=flat-square&logo=Hotmail&logoColor=white&link=mailto:luana.bezana@hotmail.com)](mailto:luana.bezana@hotmail.com)
 
 #### Conhecimento nas linguagens:
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
-![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
-![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
+![HTML5](https://img.shields.io/badge/-HTML5-4F4F4F?style=flat&logo=html5)
+![Java](https://img.shields.io/badge/-Java-4F4F4F?style=flat&logo=java)
+![JavaScript](https://img.shields.io/badge/-JavaScript-4F4F4F?style=flat&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-4F4F4F?style=flat&logo=typescript)
+![SQL](https://img.shields.io/badge/-SQL-4F4F4F?style=flat&logo=postgresql)
 
 #### Conhecimento nas tecnologias:
 ![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
@@ -25,7 +25,7 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3)
 ![NodeJS](https://img.shields.io/badge/-NodeJS-DD0031?style=flat-square&logo=NodeJS)
 
-<img align="left"  width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuaBezana&layout=compact&theme=vision-friendly-dark&Color=FF1493" />
+<img align="left"  width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuaBezana&layout=compact&theme=vision-friendly-dark" />
  <img align="right" width="400px" src="https://github-readme-stats.vercel.app/api?username=LuaBezana&show_icons=true,css&layout=compact&theme=vision-friendly-dark" />
 <!--
 **Lua Bezana/Lua Bezana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
