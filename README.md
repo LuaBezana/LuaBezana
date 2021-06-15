@@ -26,7 +26,8 @@
 ![NodeJS](https://img.shields.io/badge/-NodeJS-DD0031?style=flat-square&logo=NodeJS)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luabezana&theme=highcontrast&layout=compact)](https://github.com/luabezana/github-readme-stats)
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=luabezana&theme=highcontrast_icons=true)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=luabezana&show_icons=true&theme=highcontrast)
+
 
 <!--
 **Lua Bezana/Lua Bezana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
