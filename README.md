@@ -15,13 +15,13 @@
 ![SQL](https://img.shields.io/badge/-SQL-4F4F4F?style=flat&logo=postgresql)
 
 #### Conhecimento nas tecnologias:
-![Git](https://img.shields.io/badge/-Git-1a73e8?style=flat&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/-GitHub-430098?style=flat&logo=github&logoColor=181717)
-![Java Spring](https://img.shields.io/badge/-Spring-B7178C?style=flat&logo=spring&logoColor=6DB33F)
-![Docker](https://img.shields.io/badge/-Docker-E10098?style=flat-square&logo=docker)
+![Git](https://img.shields.io/badge/-Git-45b8d8?style=flat&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/-GitHub-1a73e8?style=flat&logo=github&logoColor=181717)
+![Java Spring](https://img.shields.io/badge/-Spring-430098?style=flat&logo=spring&logoColor=6DB33F)
+![Docker](https://img.shields.io/badge/-Docker-B7178C?style=flat-square&logo=docker)
+![Angular](https://img.shields.io/badge/-Angular-E10098?style=flat-square&logo=angular)
 ![MySQL](https://img.shields.io/badge/-MySQL-db7092?style=flat-square&logo=mysql)
-![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-FB542B?style=flat-square&logo=bootstrap)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-DD0031?style=flat-square&logo=bootstrap)
 ![CSS3](https://img.shields.io/badge/-CSS3-FB542B?style=flat&logo=css3)
 ![NodeJS](https://img.shields.io/badge/-NodeJS-F7B93E?style=flat-square&logo=NodeJS)
 <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-13aa52?style=flat-square&logo=heroku&logoColor=white" />
