@@ -1,6 +1,7 @@
 <h1>:woman_technologist: Hello world! Welcome 👋 </h1>
 
-Sou a Luana, Desenvolvedora Java FullStack, com sede de conhecimento e busca constante de aprimoramento para entregar cada vez mais qualidade no que faço.
+Sou a Luana, Desenvolvedora Java FullStack, com sede de conhecimento e busca constante
+de aprimoramento para entregar cada vez mais qualidade no que faço.
 
 <img src="https://media.giphy.com/media/13HBDT4QSTpveU/giphy.gif" width="200px">
 
