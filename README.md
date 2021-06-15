@@ -4,7 +4,7 @@
 
 || Desenvolvedora Java Full Stack ||
 
-<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/ue5ZwFCaxy64M" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/ue5ZwFCaxy64M">via GIPHY</a></p>
+<img src="https://media.giphy.com/media/ue5ZwFCaxy64M/giphy.gif" width="30px">
 
 #### Meus contatos:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/luana-cristina-bezana-a3a762133/)](https://www.linkedin.com/in/luana-bezana-a3a762133/)
