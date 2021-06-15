@@ -15,15 +15,16 @@
 ![SQL](https://img.shields.io/badge/-SQL-4F4F4F?style=flat&logo=postgresql)
 
 #### Conhecimento nas tecnologias:
-![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717)
-![Java Spring](https://img.shields.io/badge/-Spring-222222?style=flat&logo=spring&logoColor=6DB33F)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+![Git](https://img.shields.io/badge/-Git-1a73e8?style=flat&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/-GitHub-430098?style=flat&logo=github&logoColor=181717)
+![Java Spring](https://img.shields.io/badge/-Spring-B7178C?style=flat&logo=spring&logoColor=6DB33F)
+![Docker](https://img.shields.io/badge/-Docker-E10098?style=flat-square&logo=docker)
+![MySQL](https://img.shields.io/badge/-MySQL-db7092?style=flat-square&logo=mysql)
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular)
-![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3)
-![NodeJS](https://img.shields.io/badge/-NodeJS-DD0031?style=flat-square&logo=NodeJS)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-DD0031?style=flat-square&logo=bootstrap)
+![CSS3](https://img.shields.io/badge/-CSS3-FB542B?style=flat&logo=css3)
+![NodeJS](https://img.shields.io/badge/-NodeJS-F7B93E?style=flat-square&logo=NodeJS)
+<img alt="Heroku" src="https://img.shields.io/badge/-Heroku-13aa52?style=flat-square&logo=heroku&logoColor=white" />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luabezana&theme=highcontrast&layout=compact)](https://github.com/luabezana/github-readme-stats)
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=luabezana&show_icons=true&theme=highcontrast)
