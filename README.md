@@ -1,10 +1,10 @@
-<h1> ### :woman_technologist: Hello world! Welcome 👋 </h1>
+<h1>:woman_technologist: Hello world! Welcome 👋 </h1>
 
 <h2>Luana Bezana</h2>
 
 || Desenvolvedora Java Full Stack ||
 
-<iframe src="https://giphy.com/embed/ue5ZwFCaxy64M" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/ue5ZwFCaxy64M">via GIPHY</a></p>
+<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/ue5ZwFCaxy64M" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/ue5ZwFCaxy64M">via GIPHY</a></p>
 
 #### Meus contatos:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/luana-cristina-bezana-a3a762133/)](https://www.linkedin.com/in/luana-bezana-a3a762133/)
