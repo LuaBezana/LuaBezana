@@ -21,7 +21,7 @@
 ![Docker](https://img.shields.io/badge/-Docker-E10098?style=flat-square&logo=docker)
 ![MySQL](https://img.shields.io/badge/-MySQL-db7092?style=flat-square&logo=mysql)
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-DD0031?style=flat-square&logo=bootstrap)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-FB542B?style=flat-square&logo=bootstrap)
 ![CSS3](https://img.shields.io/badge/-CSS3-FB542B?style=flat&logo=css3)
 ![NodeJS](https://img.shields.io/badge/-NodeJS-F7B93E?style=flat-square&logo=NodeJS)
 <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-13aa52?style=flat-square&logo=heroku&logoColor=white" />
