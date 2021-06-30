@@ -1,9 +1,19 @@
 <h1>:woman_technologist: Hello world! Welcome 👋 </h1>
 
-Sou a Luana, Desenvolvedora Java FullStack, com sede de conhecimento e busca constante
+<div>
+  <img align="right" width="35%" src="https://media.giphy.com/media/13HBDT4QSTpveU/giphy.gif" width="200px"/>
+<blockquote>Sou a Luana, Desenvolvedora Java FullStack, com sede de conhecimento e busca constante
 de aprimoramento para entregar cada vez mais qualidade no que faço.
+  </blockquote>
+</div>
 
-<img src="https://media.giphy.com/media/13HBDT4QSTpveU/giphy.gif" width="200px">
+
+[<img align="left" width="130px" alt="Generation" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReBSkC5VuHdyllifp-0U6EeLIIKCW48_SCM0Qz_VzqqufSIFqHPlKCq_HuZUfTFPzXj2E&usqp=CAU"/>](https://brazil.generation.org/)
+
+**Desenvolvedora JAVA Fullstack Jr.** \
+[**Generation Brasil**](https://brazil.generation.org/) • Período integral • Concluído Jun/2021 \
+Linguagens, Frameworks, Ferramentas e outros: `Java`, `API Restful`, `Spring Boot`, `Postman`, `SQL Server Management Studio`, `Visual Studio Code`, `Git/GitHub`, `Scrum`
+<br>Projeto FullStack: [Repositório](https://github.com/LuaBezana/eCommerceGeneration), [Site](https://hw-tshirts.netlify.app/)</br>
 
 #### Meus contatos:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/luana-cristina-bezana-a3a762133/)](https://www.linkedin.com/in/luana-bezana-a3a762133/)
